@@ -18,16 +18,16 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launchScreenPicture" translatesAutoresizingMaskIntoConstraints="NO" id="WYV-yd-whF">
-                                <rect key="frame" x="96" y="361" width="201" height="131"/>
+                                <rect key="frame" x="100" y="59" width="193" height="759"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="WYV-yd-whF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="96" id="FKd-ae-Xym"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WYV-yd-whF" secondAttribute="bottom" constant="326" id="Fur-aM-Khd"/>
-                            <constraint firstItem="WYV-yd-whF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="302" id="tTL-Fw-Il2"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="WYV-yd-whF" secondAttribute="trailing" constant="96" id="vq4-US-Lmi"/>
+                            <constraint firstItem="WYV-yd-whF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="100" id="FKd-ae-Xym"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WYV-yd-whF" secondAttribute="bottom" id="Fur-aM-Khd"/>
+                            <constraint firstItem="WYV-yd-whF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="tTL-Fw-Il2"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="WYV-yd-whF" secondAttribute="trailing" constant="100" id="vq4-US-Lmi"/>
                         </constraints>
                     </view>
                 </viewController>
